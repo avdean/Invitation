@@ -1,0 +1,11 @@
+.storybook-margin-right {
+padding-right: 10%;
+}
+
+.storybook-margin-left {
+padding-left: 10%;
+}
+
+.rounded{	
+border-radius: 25px;
+}
