@@ -3,7 +3,16 @@ padding-right: 10%;
 padding-left: 10%;
 }
 
-.rounded {	
+.rounded {
 border-radius: 25px;
 }
 
+.storybook-margin-left {
+padding-right: 10%;
+padding-left: 15%;
+}
+
+.image-margin {
+margin-right: 7%;
+margin-left: 7%;
+}
